@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <!-- GitHub README Stats -->
+ <img height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-r-singh&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <a href="https://gitstats.me/sid-r-singh">
     <img width="460" height="auto" align="right" alt="Sidharth's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=sid-r-singh&show_icons=true&count_private=true&include_all_commits=true&bg_color=90,7367f0,b780ec&title_color=fff&text_color=fff&icon_color=fff" />
