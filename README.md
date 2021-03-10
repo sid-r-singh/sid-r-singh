@@ -17,4 +17,4 @@ Here are some ideas to get you started:
  <!-- GitHub README Stats -->
   <a href="https://gitstats.me/sid-r-singh">
     <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=sid-r-singh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api?username=sid-r-singh&show_icons=true&count_private=true&include_all_commits=true&bg_color=90,#7367f0,#ce9ffc" />
