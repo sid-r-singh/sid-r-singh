@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
  <!-- GitHub README Stats -->
   <a href="https://gitstats.me/sid-r-singh">
-    <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
+    <img width="460" height="auto" align="right" alt="Sidharth's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=sid-r-singh&show_icons=true&count_private=true&include_all_commits=true&bg_color=90,7367f0,ce9ffc&title_color=fff&text_color=fff&icon_color=fff" />
