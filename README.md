@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
+  <a href="https://gitstats.me/sid-r-singh">
     <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=sid-r-singh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
