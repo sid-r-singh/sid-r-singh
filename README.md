@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg" alt="Azure" width="40" height="40"/>
     </p>
   <a href="https://gitstats.me/sid-r-singh">
     <img width="460" height="auto" align="right" alt="Sidharth's github stats" 
