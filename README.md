@@ -1,4 +1,4 @@
-# :tada: :house: :star2:Hi there 👋 Welcome to my GitHub profile :man_technologist:
+# :tada: :house: :star2:Hey, folks <img src="icons/wave.gif" width="30px"> Welcome to my GitHub profile :man_technologist:
 
 <!--
 **sid-r-singh/sid-r-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
