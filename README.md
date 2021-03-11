@@ -1,8 +1,4 @@
 ### Hi there 👋
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
-
-<!-- in your body -->
 
 <!--
 **sid-r-singh/sid-r-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +35,7 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
 <img src="icons/ngrok.svg" alt="ngrok" width="40" height="40"/> <img src="icons/jekyll.svg" alt="jekyll" width="40" height="40"/> 
  <img src="icons/ghost.svg" alt="ghost" width="40" height="40"/> <img src="icons/githubactions.svg" alt="githubactions" width="40" height="40"/>
- <img src="icons/postman.svg" alt="postman" width="40" height="40"/> <i class="devicon-firebase-plain-wordmark colored"></i>
+ <img src="icons/postman.svg" alt="postman" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="postman" width="40" height="40"/>
     </p>
   <a href="https://gitstats.me/sid-r-singh">
     <img width="460" height="auto" align="right" alt="Sidharth's github stats" 
