@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br><img src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg" alt="Azure" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
-<img src="https://github.com/sid-r-singh/sid-r-singh/blob/main/icons/ngrok.svg" alt="ngrok" width="40" height="40"/>
+<img src="icons/ngrok.svg" alt="ngrok" width="40" height="40"/>
     </p>
   <a href="https://gitstats.me/sid-r-singh">
     <img width="460" height="auto" align="right" alt="Sidharth's github stats" 
