@@ -86,12 +86,7 @@ Here are some ideas to get you started:
 <a href="https://skyline.github.com/sid-r-singh/2020">View my Skyline</a>
 
 ---
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+[![HitCount](http://hits.dwyl.com/sid-r-singh/telegram-python.svg)](http://hits.dwyl.com/sid-r-singh/sid-r-singh)
 
 ---
 
