@@ -1,4 +1,4 @@
-# :tada: :house: :star2:Hey, folks <img src="icons/wave.gif" width="30px" /> Welcome to my GitHub profile  <img src="https://tenor.com/bcxgo.gif" width="30px" /> :man_technologist:
+# :tada: :house: :star2:Hey, folks <img src="icons/wave.gif" width="30px" /> Welcome to my GitHub profile  <img src="https://media1.tenor.com/images/cb8a955868507a9d44ecd84f723096dc/tenor.gif?itemid=15341790" width="30px" /> :man_technologist:
 
 <!--
 **sid-r-singh/sid-r-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
