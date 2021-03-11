@@ -1,5 +1,9 @@
 ### Hi there 👋
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
+<!-- in your body -->
+<i class="devicon-firebase-plain-wordmark colored"></i>
 <!--
 **sid-r-singh/sid-r-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
