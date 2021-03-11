@@ -85,6 +85,17 @@ Here are some ideas to get you started:
 
 <a href="https://skyline.github.com/sid-r-singh/2020">View my Skyline</a>
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+
   <a href="https://gitstats.me/sid-r-singh">
     <img width="460" height="auto" align="right" alt="Sidharth's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=sid-r-singh&show_icons=true&count_private=true&include_all_commits=true&bg_color=90,7367f0,b780ec&title_color=fff&text_color=fff&icon_color=fff" />
