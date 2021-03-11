@@ -35,7 +35,9 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
 <img src="icons/ngrok.svg" alt="ngrok" width="40" height="40"/> <img src="icons/jekyll.svg" alt="jekyll" width="40" height="40"/> 
  <img src="icons/ghost.svg" alt="ghost" width="40" height="40"/> <img src="icons/githubactions.svg" alt="githubactions" width="40" height="40"/>
- 
+ <img src="icons/githubactions.svg" alt="githubactions" width="40" height="40"/>
+ ![gif3](https://user-images.githubusercontent.com/68782815/110775632-23558300-8285-11eb-92b8-a50d5db15cfe.gif)
+
  
     </p>
   <a href="https://gitstats.me/sid-r-singh">
