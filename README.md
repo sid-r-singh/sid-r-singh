@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
 <img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/> <img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/> 
  <img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> <img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
- <img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="80" height="40"/>  <img src="icons/colourful/python.svg" alt="python" width="40" height="40"/> <img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/>
+ <img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="80" height="40"/>  <img src="icons/colorful/python.svg" alt="python" width="40" height="40"/> <img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/>
     </p>
     
 
