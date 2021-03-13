@@ -95,4 +95,4 @@ Here are some ideas to get you started:
 
   <a href="https://gitstats.me/sid-r-singh">
     <img width="460" height="auto" align="right" alt="Sidharth's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=sid-r-singh&show_icons=true&count_private=true&include_all_commits=true&bg_color=fff&title_color=fff&text_color=000&icon_color=000" />
+         src="https://github-readme-stats.vercel.app/api?username=sid-r-singh&show_icons=true&count_private=true&include_all_commits=true&bg_color=fff&title_color=000&text_color=000&icon_color=000" />
