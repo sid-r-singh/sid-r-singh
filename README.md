@@ -17,7 +17,19 @@ Here are some ideas to get you started:
  <!-- GitHub README Stats -->
  <!-- <img height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-r-singh&layout=compact&langs_count=8&bg_color=90,7367f0,b780ec&title_color=fff&text_color=fff&icon_color=fff" />  -->
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+	<h3 align="left">:man_technologist: I majorly code with</h3>
+		<p align="left">
+			<img src="icons/colorful/python.svg" alt="python" width="40" height="40"/> <img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
+			<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
+    	</p>
 	<h3 align="left">:spider_web: Web development</h3>
+		<p align="left">
+			<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> <img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
+			<img src="icons/colorful/python.svg" alt="python" width="40" height="40"/> <img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
+			<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/>
+			<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> <img src="icons/bnw/php.svg" alt="php" width="40" height="40"/>
+    	</p>
+	<h3 align="left">:bar_chart: API development</h3>
 		<p align="left">
 			<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/> <img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/> 
 			<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> <img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
@@ -26,6 +38,8 @@ Here are some ideas to get you started:
 			<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/>
 			<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> <img src="icons/bnw/php.svg" alt="php" width="40" height="40"/>
     	</p>
+	
+		
     
 
 # :books: All My Stacks
