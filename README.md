@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 	<p align="left">
 		&nbsp; &nbsp; &nbsp;
 		<img src="icons/bnw/digitalocean.svg" alt="digitalocean" width="40" height="40"/>
-		<img src="icons/bnw/firebase.svg.svg" alt="firebase" width="40" height="40"/>
+		<img src="icons/bnw/firebase.svg" alt="firebase" width="40" height="40"/>
 		<img src="icons/bnw/azurefunctions.svg" alt="azurefunctions" width="40" height="40"/>
 		<img src="icons/bnw/heroku.svg" alt="heroku" width="40" height="40"/> 
 	</p>	
