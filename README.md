@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 		<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
 		<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
 	</p>
-<h3 align="left">:sunrise: My daily development tools</h3>
+<h3 align="left">:sunrise: Daily development tools</h3>
 	<p align="left">
 		&nbsp; &nbsp; &nbsp;
 		<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/>
