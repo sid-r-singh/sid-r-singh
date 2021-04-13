@@ -130,7 +130,7 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-<a href="https://skyline.github.com/sid-r-singh/2020">View my Skyline 📩</a>
+<a href="https://skyline.github.com/sid-r-singh/2020">View my Skyline 📩 :inbox_tray:</a>
 
 ---
 [![HitCount](http://hits.dwyl.com/sid-r-singh/telegram-python.svg)](http://hits.dwyl.com/sid-r-singh/sid-r-singh)
