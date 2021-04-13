@@ -17,5 +17,6 @@
 <br><img src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg" alt="Azure" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/>
  </p>
  
