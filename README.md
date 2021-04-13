@@ -21,8 +21,17 @@ Here are some ideas to get you started:
 <h3 align="left">:man_technologist: I majorly code with</h3>
 	<p align="left">
 		&nbsp; &nbsp; &nbsp;
-		<img src="icons/bnw/python_simpleicons.svg" alt="python" left="20px" width="40" height="40"/>
+		<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
 		<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
+	</p>
+<h3 align="left">:sunrise: My daily development tools</h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/>
+		<img src="icons/bnw/gnubash.svg" alt="gnubash" width="40" height="40"/>
+		<img src="icons/bnw/visualstudiocode.svg" alt="visualstudiocode" width="40" height="40"/>
+		<img src="icons/bnw/git.svg" alt="git" width="40" height="40"/>
+		<img src="icons/bnw/github.svg" alt="github" width="40" height="40"/>
 	</p>
 <h3 align="left">:spider_web: Legacy Web development tools - frontend & backend </h3>
 	<p align="left">
