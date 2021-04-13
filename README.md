@@ -71,7 +71,13 @@ Here are some ideas to get you started:
 		&nbsp; &nbsp; &nbsp;
 		<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
 	</p>
-    
+<h3 align="left">:electric_plug: IOT boards</h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/arduino.svg" alt="arduino" width="40" height="40"/>
+		<img src="icons/bnw/espressif.svg" alt="espressif" width="40" height="40"/>
+	</p>   
+	</p>   
 
 <table>
   <tbody>
