@@ -58,7 +58,14 @@ Here are some ideas to get you started:
 		<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/>
 		<img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
 	</p>
-	
+<h3 align="left">:cloud: Cloud platforms</h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/digitalocean.svg" alt="digitalocean" width="40" height="40"/>
+		<img src="icons/bnw/firebase.svg.svg" alt="firebase" width="40" height="40"/>
+		<img src="icons/bnw/azurefunctions.svg" alt="azurefunctions" width="40" height="40"/>
+		<img src="icons/bnw/heroku.svg" alt="heroku" width="40" height="40"/> 
+	</p>	
 		
     
 
