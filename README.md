@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 			<img src="icons/bnw/python_simpleicons.svg" alt="python" left="20px" width="40" height="40"/>
 			<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
     	</p>
-	<h3 align="left">:spider_web: Legacy Web development tools I have used</h3>
+	<h3 align="left">:spider_web: Legacy Web development tools</h3>
 		<p align="left">
 			&nbsp; &nbsp; &nbsp;
-			<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> 
-			<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
+			<img src="icons/bnw/html 5.svg" alt="ghost" width="40" height="40"/> 
+			<img src="icons/bnw/css 3.svg" alt="githubactions" width="40" height="40"/>
 			<img src="icons/colorful/python.svg" alt="python" width="40" height="40"/> <img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
 			<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/>
 			<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> <img src="icons/bnw/php.svg" alt="php" width="40" height="40"/>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 			<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/>
 			<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> <img src="icons/bnw/php.svg" alt="php" width="40" height="40"/>
     	</p>
-	<h3 align="left">:bar_chart: My API development toolkit consists of</h3>
+	<h3 align="left">:bar_chart: API development toolkit</h3>
 		<p align="left">
 			&nbsp; &nbsp; &nbsp;
 			<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/> <img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/> 
