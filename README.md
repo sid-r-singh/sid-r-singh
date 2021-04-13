@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <h3 align="left">:bar_chart: API development toolkit</h3>
 	<p align="left">
 		&nbsp; &nbsp; &nbsp;
-		<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/> <img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/> 
-		<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
-		<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
+		<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/>
+		<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/>
+		<img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
 	</p>
 	
 		
