@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 	<h3 align="left">:man_technologist: I majorly code with</h3>
 		<p align="left">
-			<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
+			<img src="icons/bnw/python_simpleicons.svg" alt="python" left="20px" width="40" height="40"/>
 			<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
     	</p>
 	<h3 align="left">:spider_web: Web development</h3>
