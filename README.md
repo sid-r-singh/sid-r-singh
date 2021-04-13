@@ -1,4 +1,4 @@
-# :star2:Hi there<img src="icons/wave.gif" width="30px" /> glad to see you here <img src="https://media1.tenor.com/images/cb8a955868507a9d44ecd84f723096dc/tenor.gif?itemid=15341790" width="30px" />
+<div align="center"> <h1>:star2:Hi there<img src="icons/wave.gif" width="30px" /> glad to see you here <img src="https://media1.tenor.com/images/cb8a955868507a9d44ecd84f723096dc/tenor.gif?itemid=15341790" width="30px" /></h1> </div> 
 
 <!--
 **sid-r-singh/sid-r-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
