@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 		<img src="icons/bnw/git.svg" alt="git" width="40" height="40"/>
 		<img src="icons/bnw/github.svg" alt="github" width="40" height="40"/>
 	</p>
-<h3 align="left">:spider_web: Legacy web development tools - frontend & backend </h3>
+<h3 align="left">:spider_web: Legacy web dev languages - frontend & backend </h3>
 	<p align="left">
 		&nbsp; &nbsp; &nbsp;
 		<img src="icons/bnw/html 5.svg" alt="html5" width="40" height="40"/>
