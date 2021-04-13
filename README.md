@@ -65,8 +65,12 @@ Here are some ideas to get you started:
 		<img src="icons/bnw/firebase.svg" alt="firebase" width="40" height="40"/>
 		<img src="icons/bnw/azurefunctions.svg" alt="azurefunctions" width="40" height="40"/>
 		<img src="icons/bnw/heroku.svg" alt="heroku" width="40" height="40"/> 
-	</p>	
-		
+	</p>
+<h3 align="left">:arrows_counterclockwise: CI/CD tools</h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
+	</p>
     
 
 <table>
