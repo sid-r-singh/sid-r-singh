@@ -77,7 +77,16 @@ Here are some ideas to get you started:
 		<img src="icons/bnw/arduino.svg" alt="arduino" width="40" height="40"/>
 		<img src="icons/bnw/espressif.svg" alt="espressif" width="40" height="40"/>
 	</p>   
+	</p>
+<h3 align="left">:fountain_pen: DTP, spreadsheets & presentations </h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/microsoftword.svg" alt="microsoftword" width="40" height="40"/>
+		<img src="icons/bnw/microsoftexcel.svg" alt="microsoftexcel" width="40" height="40"/>
+		<img src="icons/bnw/microsoftpowerpoint.svg" alt="microsoftpowerpoint" width="40" height="40"/>
+		<img src="icons/bnw/googlesheets.svg" alt="googlesheets" width="40" height="40"/>
 	</p>   
+	</p> 
 
 <table>
   <tbody>
