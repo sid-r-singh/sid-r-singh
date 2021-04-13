@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3 align="left">:sunrise: Daily development tools</h3>
 	<p align="left">
 		&nbsp; &nbsp; &nbsp;
-		<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/> <img align="right" alt="coding GIF" src="icons/coding.gif" width="500" height="320" />
+		<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/> <img align="right" alt="coding GIF" src="icons/coding.gif" width="400" height="300" />
 		<img src="icons/bnw/gnubash.svg" alt="gnubash" width="40" height="40"/>
 		<img src="icons/bnw/visualstudiocode.svg" alt="visualstudiocode" width="40" height="40"/>
 		<img src="icons/bnw/git.svg" alt="git" width="40" height="40"/>
