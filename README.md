@@ -16,43 +16,42 @@ Here are some ideas to get you started:
 -->
  <!-- GitHub README Stats -->
  <!-- <img height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-r-singh&layout=compact&langs_count=8&bg_color=90,7367f0,b780ec&title_color=fff&text_color=fff&icon_color=fff" />  -->
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-	<h3 align="left">:man_technologist: I majorly code with</h3>
-		<p align="left">
-			&nbsp; &nbsp; &nbsp;
-			<img src="icons/bnw/python_simpleicons.svg" alt="python" left="20px" width="40" height="40"/>
-			<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
-    	</p>
-	<h3 align="left">:spider_web: Legacy Web development tools - frontend & backend </h3>
-		<p align="left">
-			&nbsp; &nbsp; &nbsp;
-			<img src="icons/bnw/html 5.svg" alt="html5" width="40" height="40"/>
-			<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
-			<img src="icons/bnw/css 3.svg" alt="css3" width="40" height="40"/>
-			<img src="icons/bnw/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-			<img src="icons/bnw/jquery.svg" alt="jquery" width="40" height="40"/>
-			<img src="icons/bnw/php.svg" alt="php" width="40" height="40"/>
-			<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> 
-    	</p>
-	<h3 align="left">:baby: Modren Web development/publishing frameworks</h3>
-		<p align="left">
-			&nbsp; &nbsp; &nbsp;
-			<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> 
-			<img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/>
-			<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
-    	</p>
-	<h3 align="left">:bar_chart: API development toolkit</h3>
-		<p align="left">
-			&nbsp; &nbsp; &nbsp;
-			<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/> <img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/> 
-			<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
-			<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
-    	</p>
+# :books: All My Stacks   
+
+<h3 align="left">:man_technologist: I majorly code with</h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/python_simpleicons.svg" alt="python" left="20px" width="40" height="40"/>
+		<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
+	</p>
+<h3 align="left">:spider_web: Legacy Web development tools - frontend & backend </h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/html 5.svg" alt="html5" width="40" height="40"/>
+		<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
+		<img src="icons/bnw/css 3.svg" alt="css3" width="40" height="40"/>
+		<img src="icons/bnw/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+		<img src="icons/bnw/jquery.svg" alt="jquery" width="40" height="40"/>
+		<img src="icons/bnw/php.svg" alt="php" width="40" height="40"/>
+		<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> 
+	</p>
+<h3 align="left">:baby: Modren Web development/publishing frameworks</h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> 
+		<img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/>
+		<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
+	</p>
+<h3 align="left">:bar_chart: API development toolkit</h3>
+	<p align="left">
+		&nbsp; &nbsp; &nbsp;
+		<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/> <img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/> 
+		<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
+		<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
+	</p>
 	
 		
     
-
-# :books: All My Stacks
 
 <table>
   <tbody>
