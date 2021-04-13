@@ -1,7 +1,7 @@
 import Vue from "vue";
 import App from "./App.vue";
 import TypeIt from "typeit";
-[codesandbox](https://codesandbox.io/s/readme-introgif-9fjo5)
+
 Vue.config.productionTip = false;
 
 new Vue({
