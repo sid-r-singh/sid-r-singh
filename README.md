@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <h3 align="left">:bar_chart: API development toolkit</h3>
 	<p align="left">
 		&nbsp; &nbsp; &nbsp;
-		<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img align="right" alt="coding GIF" src="icons/coding.gif" width="500" height="300" />
+		<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img align="right" alt="coding GIF" src="icons/coding.gif" width="500" height="330" />
 		<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/>
 		<img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
 	</p>
