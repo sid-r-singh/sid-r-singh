@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 ### :man_technologist: `I majorly code with`  
 <p align="left">
-	&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp;&nbsp;
 	<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
 	<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 ### :sunrise: `Daily development tools`  
 <p align="left">
-	&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp;&nbsp;
 	<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/> 
 	<img src="icons/bnw/gnubash.svg" alt="gnubash" width="40" height="40"/>
 	<img src="icons/bnw/visualstudiocode.svg" alt="visualstudiocode" width="40" height="40"/>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### :spider_web: `Legacy web dev languages - frontend & backend`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp;&nbsp;
 	<img src="icons/bnw/html 5.svg" alt="html5" width="40" height="40"/>
 	<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
 	<img src="icons/bnw/css 3.svg" alt="css3" width="40" height="40"/>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ### :baby: `Modren web development/publishing frameworks`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp;&nbsp;
 	<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> 
 	<img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/>
 	<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
