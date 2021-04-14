@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## :books: All My Stacks   
 
 ### :man_technologist: `I majorly code with`  
-
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 </p>
 
 ### :sunrise: `Daily development tools`  
-
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/> 
@@ -56,6 +54,7 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/>
 	<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
 </p>
+
 ### :bar_chart: `API development toolkit`
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
@@ -63,6 +62,7 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/>
 	<img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
 </p>
+
 ### :cloud: `Cloud platforms`
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
@@ -71,17 +71,20 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/azurefunctions.svg" alt="azurefunctions" width="40" height="40"/>
 	<img src="icons/bnw/heroku.svg" alt="heroku" width="40" height="40"/> 
 </p>
+
 ### :arrows_counterclockwise: `CI/CD tools`
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
 </p>
+
 ### :electric_plug: `IOT boards`
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/arduino.svg" alt="arduino" width="40" height="40"/>
 	<img src="icons/bnw/espressif.svg" alt="espressif" width="40" height="40"/>
-</p>   
+</p>
+
 ### :fountain_pen: `DTP, spreadsheets & presentations`
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
