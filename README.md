@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 ### :man_technologist: `I majorly code with`  
 <p align="left">
-	&nbsp; &nbsp; &nbsp;&nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
 	<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 ### :sunrise: `Daily development tools`  
 <p align="left">
-	&nbsp; &nbsp; &nbsp;&nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/> 
 	<img src="icons/bnw/gnubash.svg" alt="gnubash" width="40" height="40"/>
 	<img src="icons/bnw/visualstudiocode.svg" alt="visualstudiocode" width="40" height="40"/>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### :spider_web: `Legacy web dev languages - frontend & backend`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;&nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/html 5.svg" alt="html5" width="40" height="40"/>
 	<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
 	<img src="icons/bnw/css 3.svg" alt="css3" width="40" height="40"/>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ### :baby: `Modren web development/publishing frameworks`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;&nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> 
 	<img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/>
 	<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### :bar_chart: `API development toolkit`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/postman.svg" alt="postman" width="40" height="40"/> <img align="right" alt="coding GIF" src="icons/coding.gif" width="500" height="330" />
 	<img src="icons/bnw/ngrok.svg" alt="ngrok" width="40" height="40"/>
 	<img src="icons/bnw/hoppscotch.svg" alt="hoppscotch" width="40" height="40"/> 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ### :cloud: `Cloud platforms`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/digitalocean.svg" alt="digitalocean" width="40" height="40"/>
 	<img src="icons/bnw/firebase.svg" alt="firebase" width="40" height="40"/>
 	<img src="icons/bnw/azurefunctions.svg" alt="azurefunctions" width="40" height="40"/>
@@ -74,20 +74,20 @@ Here are some ideas to get you started:
 
 ### :arrows_counterclockwise: `CI/CD tools`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/githubactions.svg" alt="githubactions" width="40" height="40"/>
 </p>
 
 ### :electric_plug: `IOT boards`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/arduino.svg" alt="arduino" width="40" height="40"/>
 	<img src="icons/bnw/espressif.svg" alt="espressif" width="40" height="40"/>
 </p>
 
 ### :fountain_pen: `DTP, spreadsheets & presentations`
 <p align="left">
-	&nbsp; &nbsp; &nbsp;
+	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/microsoftword.svg" alt="microsoftword" width="40" height="40"/>
 	<img src="icons/bnw/microsoftexcel.svg" alt="microsoftexcel" width="40" height="40"/>
 	<img src="icons/bnw/microsoftpowerpoint.svg" alt="microsoftpowerpoint" width="40" height="40"/>
