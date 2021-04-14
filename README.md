@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <!-- <img height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-r-singh&layout=compact&langs_count=8&bg_color=90,7367f0,b780ec&title_color=fff&text_color=fff&icon_color=fff" />  -->
 ## :books: All My Stacks   
 
-<h3 align="left">:man_technologist: I majorly code with</h3>
+<h3 align="left">:man_technologist: `I majorly code with`</h3>
 	<p align="left">
 		&nbsp; &nbsp; &nbsp;
 		<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
