@@ -18,13 +18,16 @@ Here are some ideas to get you started:
  <!-- <img height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-r-singh&layout=compact&langs_count=8&bg_color=90,7367f0,b780ec&title_color=fff&text_color=fff&icon_color=fff" />  -->
 ## :books: All My Stacks   
 
-### :man_technologist: `I majorly code with`     
+### :man_technologist: `I majorly code with`  
+
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
 	<img src="icons/bnw/javascript.svg" alt="javascript" width="40" height="40"/>
 </p>
+
 ### :sunrise: `Daily development tools`  
+
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/linux.svg" alt="linux" width="40" height="40"/> 
