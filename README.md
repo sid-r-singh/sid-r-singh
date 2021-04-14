@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/git.svg" alt="git" width="40" height="40"/>
 	<img src="icons/bnw/github.svg" alt="github" width="40" height="40"/>
 </p>
+
 ### :spider_web: `Legacy web dev languages - frontend & backend`
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/php.svg" alt="php" width="40" height="40"/>
 	<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> 
 </p>
+
 ### :baby: `Modren web development/publishing frameworks`
 <p align="left">
 	&nbsp; &nbsp; &nbsp;
