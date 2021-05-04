@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/github.svg" alt="github" width="40" height="40"/>
 </p>
 
-<h1> :spider_web: </h1>`Legacy web dev languages - frontend & backend`
+# :spider_web: `Legacy web dev languages - frontend & backend`
 <p align="left">
 	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/html 5.svg" alt="html5" width="40" height="40"/>
