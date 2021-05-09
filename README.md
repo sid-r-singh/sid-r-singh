@@ -96,8 +96,9 @@ Here are some ideas to get you started:
 
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sid-r-singh.sid-r-singh)
 ![Visits Badge](https://badges.pufler.dev/visits/sid-r-singh/sid-r-singh?style=for-the-badge&logo=github)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sid-r-singh.sid-r-singh)
 
 <a href="https://skyline.github.com/sid-r-singh/2020">View my Skyline 📩 :inbox_tray:</a>
 
