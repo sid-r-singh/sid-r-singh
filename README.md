@@ -96,7 +96,6 @@ Here are some ideas to get you started:
 
 
 ---
-[![HitCount](http://hits.dwyl.com/sid-r-singh/telegram-python.svg)](http://hits.dwyl.com/sid-r-singh/sid-r-singh)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sid-r-singh.sid-r-singh)
 ![Visits Badge](https://badges.pufler.dev/visits/sid-r-singh/sid-r-singh?style=for-the-badge&logo=github)
 
