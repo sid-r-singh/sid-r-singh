@@ -47,11 +47,9 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> 
 </p>
 
-### :baby: `Modren web development/publishing frameworks`
+### :baby: `Static site generator`
 <p align="left">
 	&nbsp; &nbsp; &nbsp; &nbsp;
-	<img src="icons/bnw/ghost.svg" alt="ghost" width="40" height="40"/> 
-	<img src="icons/bnw/jekyll.svg" alt="jekyll" width="40" height="40"/>
 	<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
 </p>
 
