@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/espressif.svg" alt="espressif" width="40" height="40"/>
 </p>
 
-### :fountain_pen: `DTP, spreadsheets & presentations`
+### :fountain_pen: `Productivity tools`
 <p align="left">
 	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/microsoftword.svg" alt="microsoftword" width="40" height="40"/>
