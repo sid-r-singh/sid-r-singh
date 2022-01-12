@@ -1,4 +1,5 @@
-<h1 align="center"> :star2:Hi there<img src="icons/wave.gif" width="30px" /> glad to see you here <img src="https://media1.tenor.com/images/cb8a955868507a9d44ecd84f723096dc/tenor.gif?itemid=15341790" width="30px" /></h1> 
+<h1 align="center">  I love creating websites using <b>Jamstack<b> </h1> 
+
 
 <!--
 **sid-r-singh/sid-r-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +19,13 @@ Here are some ideas to get you started:
  <!-- <img height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-r-singh&layout=compact&langs_count=8&bg_color=90,7367f0,b780ec&title_color=fff&text_color=fff&icon_color=fff" />  -->
 ## :books: All My Stacks   
 
-### :man_technologist: `I majorly code with`  
+### :baby: `Jamstack - Static site generator`
+<p align="left">
+	&nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
+</p>
+
+### :man_technologist: `Other coding languages`  
 <p align="left">
 	&nbsp; &nbsp; &nbsp; &nbsp;
 	<img src="icons/bnw/python_simpleicons.svg" alt="python" width="40" height="40"/>
@@ -47,11 +54,6 @@ Here are some ideas to get you started:
 	<img src="icons/bnw/mysql.svg" alt="mysql" width="40" height="40"/> 
 </p>
 
-### :baby: `Static site generator`
-<p align="left">
-	&nbsp; &nbsp; &nbsp; &nbsp;
-	<img src="icons/bnw/hugo.svg" alt="hugo" width="40" height="40"/>
-</p>
 
 ### :bar_chart: `API development toolkit`
 <p align="left">
