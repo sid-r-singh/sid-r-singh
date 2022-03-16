@@ -1,20 +1,23 @@
-<h1 align="center">  I love creating websites using <b>Jamstack<b> </h1> 
+<h1 align="center">  Welcome to my GitHub profile </h1> 
 
 
 <!--
 **sid-r-singh/sid-r-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Here are some ideas to get you started:
 -->
+	
+	
+	Some details about me:
+- 🔭 I’m extremely good at Hugo (static site generator)
+- 🌱 I’m currently learning WCAG (Web Content Accessibility Guidelines), GDPR compliance for websites
+- 👯 I’m looking to collaborate on Hugo websites
+- 💬 Ask me about Hugo, HTML, CSS, Js
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: He
+
+
  <!-- GitHub README Stats -->
  <!-- <img height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-r-singh&layout=compact&langs_count=8&bg_color=90,7367f0,b780ec&title_color=fff&text_color=fff&icon_color=fff" />  -->
 ## :books: All My Stacks   
