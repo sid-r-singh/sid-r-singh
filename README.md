@@ -10,11 +10,8 @@ Here are some ideas to get you started:
 	
 	
 	Some details about me:
-- 🔭 I’m extremely good at Hugo (static site generator)
+- 🔭 I’m am good at Python
 - 🌱 I’m currently learning WCAG (Web Content Accessibility Guidelines), GDPR compliance for websites
-- 👯 I’m looking to collaborate on Hugo websites
-- 💬 Ask me about Hugo, HTML, CSS, Js
-- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He
 
 
