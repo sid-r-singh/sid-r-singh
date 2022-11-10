@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 	Some details about me:
 - 🔭 I’m am good at Python
 - 🌱 I’m currently learning WCAG (Web Content Accessibility Guidelines), GDPR compliance for websites
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 
 
  <!-- GitHub README Stats -->
